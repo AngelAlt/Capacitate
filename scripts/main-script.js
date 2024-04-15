@@ -1,5 +1,9 @@
 //capacitor
 
+//just in case{
+import * from "./Nizzle.js"
+//}
+
 class capacitor {
   constructor() {
     alert("the capacitor mod is added sucesfully")
